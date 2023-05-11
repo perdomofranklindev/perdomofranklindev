@@ -1,6 +1,6 @@
 ## Hello
 
-My name is Franklin, I'm from Venezuela and I'm a Full Stack Developer.
+My name is Franklin, I'm from Venezuela and I'm a Front End Developer.
 
 ## Skills
 
