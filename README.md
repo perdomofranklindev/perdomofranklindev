@@ -1,6 +1,6 @@
 ## Hello!
 
-My name is Franklin, I'm a Full Stack Developer.
+My name is Franklin, I'm a Full Stack Nodejs Developer.
 
 ## Skills 
 
